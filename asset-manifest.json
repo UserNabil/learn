@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UserNabil/learn.git/static/css/main.1bceab22.css",
+    "main.js": "/UserNabil/learn.git/static/js/main.55e18491.js",
+    "static/media/about.jpg": "/UserNabil/learn.git/static/media/about.cc04ad233555e3d12e7c.jpg",
+    "static/media/logo-head.png": "/UserNabil/learn.git/static/media/logo-head.3c21198516fe413f7d58.png",
+    "index.html": "/UserNabil/learn.git/index.html",
+    "main.1bceab22.css.map": "/UserNabil/learn.git/static/css/main.1bceab22.css.map",
+    "main.55e18491.js.map": "/UserNabil/learn.git/static/js/main.55e18491.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bceab22.css",
+    "static/js/main.55e18491.js"
+  ]
+}
